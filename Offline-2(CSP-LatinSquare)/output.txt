@@ -1,0 +1,400 @@
+"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=51395:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath "F:\3-2\Artificial-Intelligence-Sessional\Offline-2(CSP-LatinSquare)\CSP-accendingvalueOrdertry\out\production\CSP" Main
+Do you want to run manually or automatically?
+1. Manually
+2. Automatically
+2
+File Name: \data\d-10-01.txt
+Number of unassainged variable: 57
+BT_VH5
+  5  9  6  7  8  3  4  2 10  1
+  2  6  4 10  5  1  3  7  9  8
+  7  2 10  8  3  4  1  6  5  9
+ 10  1  5  4  2  6  9  8  7  3
+  3 10  7  5  1  9  8  4  2  6
+  8  7  3  2  9  5 10  1  6  4
+  6  8  9  1  4  7  2 10  3  5
+  9  4  2  3 10  8  6  5  1  7
+  1  3  8  6  7 10  5  9  4  2
+  4  5  1  9  6  2  7  3  8 10
+Time: 254ms
+Number of nodes: 150383
+Number of backtracks: 150326
+File Name: \data\d-10-06.txt
+Number of unassainged variable: 57
+BT_VH5
+  1  7  3  8  5  9  2  6  4 10
+  9  5  1  2  4  3  6  8 10  7
+  2  8  7  5  9  1  4 10  6  3
+  6  3  8  9  7  4 10  1  5  2
+  4  2  9  6  8 10  7  3  1  5
+ 10  4  6  3  1  2  5  7  8  9
+  8 10  4  7  6  5  3  9  2  1
+  5  1 10  4  3  6  9  2  7  8
+  3  6  2  1 10  7  8  5  9  4
+  7  9  5 10  2  8  1  4  3  6
+Time: 99ms
+Number of nodes: 66119
+Number of backtracks: 66062
+File Name: \data\d-10-07.txt
+Number of unassainged variable: 57
+BT_VH5
+  1  8  4  3  6 10  7  2  5  9
+  9  6  3  8  2  5  1 10  4  7
+  2  3  1  5  4  7  6  9 10  8
+ 10  1  9  6  7  2  8  4  3  5
+  7  5  2  4  8  3 10  6  9  1
+  5  2 10  1  3  9  4  7  8  6
+  8  4  6  7  9  1  5  3  2 10
+  6  9  8 10  1  4  3  5  7  2
+  4 10  7  9  5  8  2  1  6  3
+  3  7  5  2 10  6  9  8  1  4
+Time: 216ms
+Number of nodes: 156825
+Number of backtracks: 156768
+File Name: \data\d-10-08.txt
+Number of unassainged variable: 57
+BT_VH5
+  2  9  3  5  7  6  8  4  1 10
+  6  3  9  2 10  4  1  8  7  5
+  4  1  8  6  2 10  3  7  5  9
+  8  7 10  3  5  1  4  2  9  6
+  5  6  1  8  9  2  7 10  4  3
+  7  5  4 10  1  3  9  6  8  2
+  3  2  7  1  6  8  5  9 10  4
+  1  4  2  9  8  5 10  3  6  7
+ 10  8  6  7  4  9  2  5  3  1
+  9 10  5  4  3  7  6  1  2  8
+Time: 4ms
+Number of nodes: 481
+Number of backtracks: 424
+File Name: \data\d-10-09.txt
+Number of unassainged variable: 57
+BT_VH5
+  1  4  7  5  3  2 10  6  9  8
+  9  3  5 10  7  1  6  8  2  4
+  4  8  2  1  6  3  7 10  5  9
+  5  2  3  7 10  8  4  9  1  6
+  3  6  4  9  1  7  8  2 10  5
+ 10  5  8  6  2  4  9  1  3  7
+  6  7  1  3  8  9  2  5  4 10
+  7 10  6  2  9  5  1  4  8  3
+  8  1  9  4  5 10  3  7  6  2
+  2  9 10  8  4  6  5  3  7  1
+Time: 8ms
+Number of nodes: 5501
+Number of backtracks: 5444
+File Name: \data\d-15-01.txt
+Number of unassainged variable: 106
+BT_VH5
+"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=62090:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath "F:\3-2\Artificial-Intelligence-Sessional\Offline-2(CSP-LatinSquare)\CSP\out\production\CSP" Main
+Do you want to run manually or automatically?
+1. Manually
+2. Automatically
+2
+File Name: \data\d-10-01.txt
+Number of unassainged variable: 57
+BT_VH2
+  7  9  6  8  5  3  4  2 10  1
+  2  6  4  5 10  1  3  7  9  8
+  3  2 10  7  8  4  1  6  5  9
+ 10  1  5  4  2  6  9  8  7  3
+  5 10  7  3  1  9  8  4  2  6
+  8  7  3  2  9  5 10  1  6  4
+  6  8  9  1  4  7  2 10  3  5
+  9  4  2 10  3  8  6  5  1  7
+  1  3  8  6  7 10  5  9  4  2
+  4  5  1  9  6  2  7  3  8 10
+Time: 10471153ms
+Number of nodes: 18455143746
+Number of backtracks: 18455143689
+Number of unassainged variable: 57
+BT_VH5
+  7  9  6  8  5  3  4  2 10  1
+  2  6  4  5 10  1  3  7  9  8
+  3  2 10  7  8  4  1  6  5  9
+ 10  1  5  4  2  6  9  8  7  3
+  5 10  7  3  1  9  8  4  2  6
+  8  7  3  2  9  5 10  1  6  4
+  6  8  9  1  4  7  2 10  3  5
+  9  4  2 10  3  8  6  5  1  7
+  1  3  8  6  7 10  5  9  4  2
+  4  5  1  9  6  2  7  3  8 10
+Time: 47ms
+Number of nodes: 25089
+Number of backtracks: 25032
+Number of unassainged variable: 57
+FC_VH2
+  7  9  6  8  5  3  4  2 10  1
+  2  6  4  5 10  1  3  7  9  8
+  3  2 10  7  8  4  1  6  5  9
+ 10  1  5  4  2  6  9  8  7  3
+  5 10  7  3  1  9  8  4  2  6
+  8  7  3  2  9  5 10  1  6  4
+  6  8  9  1  4  7  2 10  3  5
+  9  4  2 10  3  8  6  5  1  7
+  1  3  8  6  7 10  5  9  4  2
+  4  5  1  9  6  2  7  3  8 10
+Time: 4816.6785ms
+Number of nodes: 11014034
+Number of backtracks: 6253749
+Number of unassainged variable: 57
+FC_VH5
+  7  9  6  8  5  3  4  2 10  1
+  2  6  4  5 10  1  3  7  9  8
+  3  2 10  7  8  4  1  6  5  9
+ 10  1  5  4  2  6  9  8  7  3
+  5 10  7  3  1  9  8  4  2  6
+  8  7  3  2  9  5 10  1  6  4
+  6  8  9  1  4  7  2 10  3  5
+  9  4  2 10  3  8  6  5  1  7
+  1  3  8  6  7 10  5  9  4  2
+  4  5  1  9  6  2  7  3  8 10
+Time: 6.5878ms
+Number of nodes: 1035
+Number of backtracks: 658
+File Name: \data\d-10-06.txt
+Number of unassainged variable: 57
+BT_VH2
+  1  7  8  9  5 10  2  6  4  3
+  9 10  1  2  8  3  5  4  6  7
+ 10  3  7  5  9  1  4  8  2  6
+  6  8  3 10  7  4  9  1  5  2
+  4  2  9  8 10  6  7  3  1  5
+  2  4  6  3  1  5 10  7  8  9
+  8  5  4  7  6  2  3  9 10  1
+  5  1  2  4  3  9  6 10  7  8
+  3  6 10  1  2  7  8  5  9  4
+  7  9  5  6  4  8  1  2  3 10
+Time: 3223089ms
+Number of nodes: 5332579461
+Number of backtracks: 5332579404
+Number of unassainged variable: 57
+BT_VH5
+  1  7 10  8  5  3  2  6  4  9
+  9 10  1  2  3  5  4  8  6  7
+ 10  8  7  5  9  1  6  4  2  3
+  6  3  8  9  7  4 10  1  5  2
+  4  2  9  6  8 10  7  3  1  5
+  2  4  6  3  1  9  5  7  8 10
+  8  5  4  7  6  2  3  9 10  1
+  5  1  3  4  2  6  9 10  7  8
+  3  6  2  1 10  7  8  5  9  4
+  7  9  5 10  4  8  1  2  3  6
+Time: 140ms
+Number of nodes: 114392
+Number of backtracks: 114335
+Number of unassainged variable: 57
+FC_VH2
+  1  7  8  9  5 10  2  6  4  3
+  9 10  1  2  8  3  5  4  6  7
+ 10  3  7  5  9  1  4  8  2  6
+  6  8  3 10  7  4  9  1  5  2
+  4  2  9  8 10  6  7  3  1  5
+  2  4  6  3  1  5 10  7  8  9
+  8  5  4  7  6  2  3  9 10  1
+  5  1  2  4  3  9  6 10  7  8
+  3  6 10  1  2  7  8  5  9  4
+  7  9  5  6  4  8  1  2  3 10
+Time: 3211.5512ms
+Number of nodes: 7106153
+Number of backtracks: 4093832
+Number of unassainged variable: 57
+FC_VH5
+  1  7 10  8  5  3  2  6  4  9
+  9 10  1  2  3  5  4  8  6  7
+ 10  8  7  5  9  1  6  4  2  3
+  6  3  8  9  7  4 10  1  5  2
+  4  2  9  6  8 10  7  3  1  5
+  2  4  6  3  1  9  5  7  8 10
+  8  5  4  7  6  2  3  9 10  1
+  5  1  3  4  2  6  9 10  7  8
+  3  6  2  1 10  7  8  5  9  4
+  7  9  5 10  4  8  1  2  3  6
+Time: 8.7521ms
+Number of nodes: 6801
+Number of backtracks: 4696
+File Name: \data\d-10-07.txt
+Number of unassainged variable: 57
+BT_VH2
+  2  8  4  1  6 10  7  3  5  9
+  9  5  3  8  2  7  1 10  4  6
+  5  3  1  4  7  2  6  9 10  8
+ 10  1  9  6  4  5  8  2  3  7
+  7  4  2  5  8  3 10  6  9  1
+  1  2  6  3  5  9  4  7  8 10
+  8  6 10  7  9  1  5  4  2  3
+  6  9  8 10  1  4  3  5  7  2
+  4 10  7  9  3  8  2  1  6  5
+  3  7  5  2 10  6  9  8  1  4
+Time: 6309564ms
+Number of nodes: 11207278061
+Number of backtracks: 11207278004
+Number of unassainged variable: 57
+BT_VH5
+  2  8  4  1  6 10  7  3  5  9
+  9  5  3  8  2  7  1 10  4  6
+  5  3  1  4  7  2  6  9 10  8
+ 10  1  9  6  4  5  8  2  3  7
+  7  4  2  5  8  3 10  6  9  1
+  1  2  6  3  5  9  4  7  8 10
+  8  6 10  7  9  1  5  4  2  3
+  6  9  8 10  1  4  3  5  7  2
+  4 10  7  9  3  8  2  1  6  5
+  3  7  5  2 10  6  9  8  1  4
+Time: 31ms
+Number of nodes: 20316
+Number of backtracks: 20259
+Number of unassainged variable: 57
+FC_VH2
+  2  8  4  1  6 10  7  3  5  9
+  9  5  3  8  2  7  1 10  4  6
+  5  3  1  4  7  2  6  9 10  8
+ 10  1  9  6  4  5  8  2  3  7
+  7  4  2  5  8  3 10  6  9  1
+  1  2  6  3  5  9  4  7  8 10
+  8  6 10  7  9  1  5  4  2  3
+  6  9  8 10  1  4  3  5  7  2
+  4 10  7  9  3  8  2  1  6  5
+  3  7  5  2 10  6  9  8  1  4
+Time: 2004.9773ms
+Number of nodes: 4651246
+Number of backtracks: 2507196
+Number of unassainged variable: 57
+FC_VH5
+  2  8  4  1  6 10  7  3  5  9
+  9  5  3  8  2  7  1 10  4  6
+  5  3  1  4  7  2  6  9 10  8
+ 10  1  9  6  4  5  8  2  3  7
+  7  4  2  5  8  3 10  6  9  1
+  1  2  6  3  5  9  4  7  8 10
+  8  6 10  7  9  1  5  4  2  3
+  6  9  8 10  1  4  3  5  7  2
+  4 10  7  9  3  8  2  1  6  5
+  3  7  5  2 10  6  9  8  1  4
+Time: 2.150399ms
+Number of nodes: 752
+Number of backtracks: 493
+File Name: \data\d-10-08.txt
+Number of unassainged variable: 57
+BT_VH2
+  2  9  3  5  8  6 10  4  1  7
+  8  5  9  3 10  4  1  2  7  6
+  4  1  8  6  2 10  3  7  5  9
+  6  7 10  8  5  1  4  3  9  2
+  5  6  1 10  9  2  7  8  4  3
+  7  3  4  2  1  5  9  6  8 10
+  3  2  7  1  6  8  5  9 10  4
+  1  4  2  9  3  7  8 10  6  5
+ 10  8  6  7  4  9  2  5  3  1
+  9 10  5  4  7  3  6  1  2  8
+Time: 438647ms
+Number of nodes: 706236573
+Number of backtracks: 706236516
+Number of unassainged variable: 57
+BT_VH5
+  2  9  3  5  7  6  8  4  1 10
+  6  2  9  3 10  4  1  8  7  5
+  4  1  8  6  2 10  3  7  5  9
+  8  7 10  2  5  1  4  3  9  6
+  5  6  1  8  9  2  7 10  4  3
+  7  3  4 10  1  5  9  6  8  2
+  3  5  7  1  6  8  2  9 10  4
+  1  4  2  9  8  3 10  5  6  7
+ 10  8  5  7  4  9  6  2  3  1
+  9 10  6  4  3  7  5  1  2  8
+Time: 15ms
+Number of nodes: 21465
+Number of backtracks: 21408
+Number of unassainged variable: 57
+FC_VH2
+  2  9  3  5  8  6 10  4  1  7
+  8  5  9  3 10  4  1  2  7  6
+  4  1  8  6  2 10  3  7  5  9
+  6  7 10  8  5  1  4  3  9  2
+  5  6  1 10  9  2  7  8  4  3
+  7  3  4  2  1  5  9  6  8 10
+  3  2  7  1  6  8  5  9 10  4
+  1  4  2  9  3  7  8 10  6  5
+ 10  8  6  7  4  9  2  5  3  1
+  9 10  5  4  7  3  6  1  2  8
+Time: 741.1479ms
+Number of nodes: 1622597
+Number of backtracks: 892956
+Number of unassainged variable: 57
+FC_VH5
+  2  9  3  5  7  6  8  4  1 10
+  6  2  9  3 10  4  1  8  7  5
+  4  1  8  6  2 10  3  7  5  9
+  8  7 10  2  5  1  4  3  9  6
+  5  6  1  8  9  2  7 10  4  3
+  7  3  4 10  1  5  9  6  8  2
+  3  5  7  1  6  8  2  9 10  4
+  1  4  2  9  8  3 10  5  6  7
+ 10  8  6  7  4  9  5  2  3  1
+  9 10  5  4  3  7  6  1  2  8
+Time: 4.920799ms
+Number of nodes: 4352
+Number of backtracks: 2934
+File Name: \data\d-10-09.txt
+Number of unassainged variable: 57
+BT_VH2
+  1  4  9  5  3  7 10  6  2  8
+  6  3  5 10  7  9  2  8  4  1
+  4  8  2  1  6  3  7 10  5  9
+  5  2  3  7 10  8  4  1  9  6
+  3  6  7  9  1  4  8  2 10  5
+ 10  5  8  6  2  1  9  4  3  7
+  9  7  4  3  8  2  6  5  1 10
+  7 10  6  2  4  5  1  9  8  3
+  8  9  1  4  5 10  3  7  6  2
+  2  1 10  8  9  6  5  3  7  4
+Time: 3108472ms
+Number of nodes: 5509844600
+Number of backtracks: 5509844543
+Number of unassainged variable: 57
+BT_VH5
+  1  4  9  5  3  7 10  6  2  8
+  6  3  5 10  7  2  4  8  9  1
+  4  8  2  1  6  3  7 10  5  9
+  5  2  3  7 10  9  8  1  4  6
+  3  7  4  9  1  8  6  2 10  5
+ 10  5  8  6  2  1  9  4  3  7
+  9  6  7  3  8  4  2  5  1 10
+  7 10  6  2  4  5  1  9  8  3
+  8  9  1  4  5 10  3  7  6  2
+  2  1 10  8  9  6  5  3  7  4
+Time: 16ms
+Number of nodes: 2329
+Number of backtracks: 2272
+Number of unassainged variable: 57
+FC_VH2
+  1  4  9  5  3  7 10  6  2  8
+  6  3  5 10  7  9  2  8  4  1
+  4  8  2  1  6  3  7 10  5  9
+  5  2  3  7 10  8  4  1  9  6
+  3  6  7  9  1  4  8  2 10  5
+ 10  5  8  6  2  1  9  4  3  7
+  9  7  4  3  8  2  6  5  1 10
+  7 10  6  2  4  5  1  9  8  3
+  8  9  1  4  5 10  3  7  6  2
+  2  1 10  8  9  6  5  3  7  4
+Time: 1516.1358ms
+Number of nodes: 3864020
+Number of backtracks: 2023142
+Number of unassainged variable: 57
+FC_VH5
+  1  4  9  5  3  7 10  6  2  8
+  6  3  5 10  7  4  9  8  1  2
+  4  8  2  1  6  3  7 10  5  9
+  5  2  3  7 10  1  8  4  9  6
+  3  6  4  9  1  8  2  7 10  5
+ 10  5  8  6  2  9  4  1  3  7
+  9  7  1  3  8  2  6  5  4 10
+  7 10  6  2  4  5  1  9  8  3
+  8  9  7  4  5 10  3  2  6  1
+  2  1 10  8  9  6  5  3  7  4
+Time: 1.6932ms
+Number of nodes: 467
+Number of backtracks: 265
+
+Process finished with exit code 0
