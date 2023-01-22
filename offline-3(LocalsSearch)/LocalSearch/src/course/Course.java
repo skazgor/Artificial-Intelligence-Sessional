@@ -3,14 +3,15 @@ package course;
 import student.Student;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 public class Course {
-    private int courseID;
+    private final int courseID;
     private int nofStudents;
     private List<Student> students;
 
-    private int saturationDegree=0;
+    private HashSet<Integer> adjacentTimeslot;
     private int timeSlot=-1;
     private List<Course> adjacentList;
     private int newTimeSlot=-1;
@@ -20,11 +21,13 @@ public class Course {
     }
 
     public Course(int courseID) {
+        adjacentTimeslot =new HashSet<>();
         this.courseID = courseID;
     }
 
     public Course(int courseID, int nofStudents) {
         this.courseID = courseID;
+        adjacentTimeslot =new HashSet<>();
         this.nofStudents = nofStudents;
     }
 
@@ -42,7 +45,7 @@ public class Course {
     }
 
     public int getSaturationDegree() {
-        return saturationDegree;
+        return adjacentTimeslot.size();
     }
 
     public int getNewTimeSlot() {
@@ -79,7 +82,7 @@ public class Course {
         return adjacentList;
     }
 
-    public void increaseSaturationDegree() {
-        saturationDegree++;
+    public void addAdjacentTimeslot(int timeslot) {
+        adjacentTimeslot.add(timeslot);
     }
 }

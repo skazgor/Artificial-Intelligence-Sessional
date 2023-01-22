@@ -48,7 +48,7 @@ public class Solution {
     private void updateDomain(boolean[][] domain, Course course ) {
         for(Course adjacentCourse:course.getAdjacentList()){
             domain[adjacentCourse.getCourseID()][course.getTimeSlot()]=false;
-            adjacentCourse.increaseSaturationDegree();
+            adjacentCourse.addAdjacentTimeslot(course.getTimeSlot());
         }
     }
 
