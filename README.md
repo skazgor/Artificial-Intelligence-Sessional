@@ -1,1 +1,2 @@
-# Artificial-Intelligence-Sessional
+# Artificial-Intelligence-Sessional BUET CSE 318
+In this course, you have to solve various search problem and may be knowledge engineering. I will suggest to read and understand the problem properly. Then read the theory and think about how to design the solution. Think about the classes you will need. Also, start as early as possible. It may take times but easy. You will find all the file necessary. Don't copy the code. Try to understand the code and write your own. 
